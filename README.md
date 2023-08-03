@@ -1,0 +1,2 @@
+# coins
+emitter pixi-particles
