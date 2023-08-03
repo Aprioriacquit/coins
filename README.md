@@ -1,6 +1,11 @@
 # coins
 emitter pixi-particles
 
-# START
-npm i 
-npx webpack  
+### Install Modules
+```shell
+npm install
+```
+### Webpack
+```shell
+npx webpack
+```
